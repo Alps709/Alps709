@@ -24,7 +24,7 @@ Radiant shores is a Pre-Alpha wave defense game made in Unreal Engine.
 
 [itch.io Link](https://ourlittlestudio.itch.io/radiant-shores)
 
-[Gameplaye video](https://www.youtube.com/watch?v=6JjRdtMopVE&feature=emb_logo)
+[Gameplay video](https://www.youtube.com/watch?v=6JjRdtMopVE&feature=emb_logo)
 
 The game is about stopping pirate chickens from attacking your settlement, you can use cannons for defense and the platforms/jump-pads to traverse water.
 This game was made by Team Radiance - A collection of 3 artists and 3 programmers from Media Design School.
