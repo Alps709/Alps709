@@ -1,6 +1,6 @@
-# Portfolio-of-Work 
 
-### About me
+
+# About me
 My name is Anton Le Prevost-Smith.
 I'm a 23 year old software engineer and game developer in my last year of university.
 
@@ -9,10 +9,11 @@ I love working with other people to solve problems and make some pretty cool thi
 I'm experienced in using C++, Unreal Engine, and Unity.
 This is my portfolio for all the programming and game development work I have done during my degree.
 
-####How to reach me:
+#### How to reach me:
 Email: alps709@gmail.com
 LinkedIn: 
 
+# Portfolio-of-Work 
 
 ## Game dev work (WIP)
 This bit explains what games I've worked on during my degree. 
