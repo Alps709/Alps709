@@ -29,11 +29,11 @@ Radiant shores is a Pre-Alpha wave defense game made in Unreal Engine.
 The game is about stopping pirate chickens from attacking your settlement, you can use cannons for defense and the platforms/jump-pads to traverse water.
 This game was made by Team Radiance - A collection of 3 artists and 3 programmers from Media Design School.
 
-![One Page Press Document of Radiant Shores](https://github.com/Alps709/Portfolio-of-Work/blob/master/Media/OnePagePressDocument_TeamRadiance.png)
+![One Page Press Document of Radiant Shores](https://github.com/Alps709/Alps709/blob/master/Media/OnePagePressDocument_TeamRadiance.png)
 
 For this game I worked on the placement system that allows us to place platforms and cannons in the world, the functionality for the cannons, and general tasks such as bug fixing, UI and gameplay.
 
-![Radiant shores placement and cannons](https://github.com/Alps709/Portfolio-of-Work/blob/master/Media/Radiant%20shores.gif)
+![Radiant shores placement and cannons](https://github.com/Alps709/Alps709/blob/master/Media/Radiant%20shores.gif)
 
 
 
@@ -43,11 +43,11 @@ Noir is a 2.5D platforming game made in Unreal Engine.
 You play as a soul trying to pass on into the after life. You must stay within the light to not fade into darkness. Platform your way through a castle full of trials to be able to pass on into the afterlife.
 This game was made by Team Radiance - A collection of 3 artists and 3 programmers from Media Design School.
 
-![One Page Press Document of Noir](https://github.com/Alps709/Portfolio-of-Work/blob/master/Media/OnePagePressDocument2_TeamRadiance.png)
+![One Page Press Document of Noir](https://github.com/Alps709/Alps709/blob/master/Media/OnePagePressDocument2_TeamRadiance.png)
 
 For this game I worked on the cat and its light based health system, the double jump, and other general work such as bug fixing, level design, and particle effects.
 
-![Noir gameplay](https://github.com/Alps709/Portfolio-of-Work/blob/master/Media/Noir.gif)
+![Noir gameplay](https://github.com/Alps709/Alps709/blob/master/Media/Noir.gif)
 
 <!--
 **Alps709/Alps709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
