@@ -11,7 +11,8 @@ This is my portfolio for all the programming and game development work I have do
 
 #### How to reach me:
 Email: alps709@gmail.com
-LinkedIn: 
+
+LinkedIn: www.linkedin.com/in/antonlps
 
 # Portfolio-of-Work 
 
@@ -48,18 +49,3 @@ This game was made by Team Radiance - A collection of 3 artists and 3 programmer
 For this game I worked on the cat and its light based health system, the double jump, and other general work such as bug fixing, level design, and particle effects.
 
 ![Noir gameplay](https://github.com/Alps709/Alps709/blob/master/Media/Noir.gif)
-
-<!--
-**Alps709/Alps709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
