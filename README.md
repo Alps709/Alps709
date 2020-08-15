@@ -14,9 +14,9 @@ Email: alps709@gmail.com
 
 LinkedIn: www.linkedin.com/in/antonlps
 
-# Portfolio-of-Work 
+# Portfolio-of-Work (WIP)
 
-## Game dev work (WIP)
+## Game dev work
 This bit explains what games I've worked on during my degree. 
 (Scroll down to the programming section see my programming work)
 
