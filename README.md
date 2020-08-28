@@ -9,6 +9,8 @@ I love working with other people to solve problems and make some pretty cool thi
 I'm experienced in using C++, Unreal Engine, and Unity.
 This is my portfolio for all the programming and game development work I have done during my degree.
 
+(This whole thing is still a work in progress so please excuse me if it seems pretty lackluster at the moment :) )
+
 #### How to reach me:
 Email: alps709@gmail.com
 
