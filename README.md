@@ -20,7 +20,6 @@ LinkedIn: www.linkedin.com/in/antonlps
 
 ## Game dev work
 This bit explains what games I've worked on during my degree. 
-(Scroll down to the programming section see my programming work)
 
 ### Radiant Shores
 Radiant shores is a Pre-Alpha wave defense game made in Unreal Engine.
