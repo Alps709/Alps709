@@ -33,7 +33,7 @@ This game was made by Team Radiance - A collection of 3 artists and 3 programmer
 
 [One Page Press Document of Radiant Shores](https://github.com/Alps709/Alps709/blob/master/Media/OnePagePressDocument_TeamRadiance.png) -  Details an overview of the game and the members in the team.
 
-For this game I worked on the placement system that allows us to place platforms and cannons in the world, the functionality for the cannons, and general tasks such as bug fixing, UI and gameplay.
+For this game I worked on the platform highlight and placement system that allows us to place platforms and cannons in the world, I also worked on the functionality for the autonomous cannons, and general tasks such as bug fixing, UI and gameplay.
 
 ![Radiant shores placement and cannons](https://github.com/Alps709/Alps709/blob/master/Media/Radiant%20shores.gif)
 
