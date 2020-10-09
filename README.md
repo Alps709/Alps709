@@ -58,19 +58,19 @@ I was one of the two lead programmers for all prototypes, as well as a designer.
 
 #### 1 Week long Prototypes:
 
-•	Noir: A 2.5D platforming game that required the player to stay within the light to survive.
+•	Noir: Detailed Above (also worked on for another 4 weeks in a Mini-Production stage).
 
 •	Muchicken: A 3D golf game that required the player to swich the seasons of the weather to clear the path of the ball.
 
 •	Mu: A 3D, platforming game where the player uses a grappling hook to swing across the level to the goal.
 
-•	Radiant Shores: (detailed above).
+•	Radiant Shores: Detailed Above (also worked on for another 4 weeks in a Mini-Production stage).
 
 #### 2 Week long Prototypes:
 
 •	SousChef: 3D monster hunter game with simple combat, this game is about a chef that hunts monster vegetables to cook.
 
-•	Beastiary: A 3D Cooking/potion brewing game about experimenting with monster ingredients to discover potion recipes.
+•	Beastiary: A 3D Cooking/potion-brewing game about experimenting with monster ingredients to discover potion recipes.
 
-•	Robot Rush: A 3D party racing game, where players have unique constantly changing abilities that mess with other players.
+•	Robot Rush: A 3D party combat/racing game, where players have unique constantly changing abilities that mess with other players.
 
