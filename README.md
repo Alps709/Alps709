@@ -35,9 +35,9 @@ This game was made by Team Radiance - A collection of 3 artists and 3 programmer
 
 For this game I worked on the platform highlight and placement system that allows us to place platforms and cannons in the world, I also worked on the functionality for the autonomous cannons, and general tasks such as bug fixing, UI and gameplay.
 
-![Radiant shores placement and cannons](https://github.com/Alps709/Alps709/blob/master/Media/Radiant%20shores.gif)
-
-
+<p align="center">
+  <img title="Radiant shores placement and cannons" src="https://github.com/Alps709/Alps709/blob/master/Media/Radiant%20shores.gif"/>
+</p>
 
 ### [Noir](https://ourlittlestudio.itch.io/noir)
 Noir is a 2.5D platforming game created in Unreal Engine.  
@@ -49,8 +49,9 @@ This game was made by Team Radiance - A collection of 3 artists and 3 programmer
 
 For this game I worked on the cat and its light based health system, the double jump, and other general work such as bug fixing, level design, and particle effects.
 
-![Noir gameplay](https://github.com/Alps709/Alps709/blob/master/Media/Noir.gif)
-
+<p align="center">
+  <img title="Noir gameplay" src="https://github.com/Alps709/Alps709/blob/master/Media/Noir.gif"/>
+</p>
 
 ### Rapid Game Prototypes
 I collaborated in a team of 6 people to develop 4 different 1 week long game prototypes as well as, 3 different 2 week long  game prototypes. 
