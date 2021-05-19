@@ -54,7 +54,7 @@ Some features / techniques showcased are:
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Yanet In Yonderland.png"/>
 </p>
 A 2D platforming puzzel game created in my first year of University with a team of 4 other people (2 programmers, 2 artists).
-A license to use the game was sold to <a href="https://www.coolmathgames.com/0-yanet-in-yonderland">CoolMathGames.com</a>, which since been rated 4.2/5 with over 3000 votes.
+A license to use the game was sold to <a href="https://www.coolmathgames.com/0-yanet-in-yonderland">CoolMathGames.com</a>, and has since been rated 4.2/5 with over 3000 votes.
 I programmed the main puzzel mechanics, the companion AI and designed some of the puzzles for the game.
 
 
