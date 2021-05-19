@@ -94,7 +94,7 @@ I was one of the two lead programmers for all prototypes, as well as a designer.
 
 #### 2 Week long Prototypes:
 
-•	SousChef: 3D monster hunter game with simple combat, this game is about a chef that hunts monster vegetables to cook.
+•	[SousChef:](https://ourlittlestudio.itch.io/sous-chef) 3D monster hunter game with simple combat, this game is about a chef that hunts monster vegetables to cook.
 
 •	Beastiary: A 3D Cooking/potion-brewing game about experimenting with monster ingredients to discover potion recipes.
 
