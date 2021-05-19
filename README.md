@@ -27,8 +27,11 @@ I developed a prototype of a 2D multiplayer combat game that uses fluid simulati
 
 
 ### Advanced Graphics showcase
+<p align="center">
+  <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/AdvancedGraphics.gif"/>
+</p>
 For one of my university projects I developed a showcase of different graphics techniques in my custom rendering engine that uses C++ and the OpenGL graphics API.
-[A video of the different graphics techniques I implemented can be found here](https://www.youtube.com/watch?v=bZDdFdQSank).
+[A video of the different graphics techniques I implemented can be found here](https://youtu.be/ZAtfRSMvaL0).
 
 Some features / techniques showcased are: 
 •	Procedural terrain generation using noise. 
