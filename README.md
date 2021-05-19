@@ -22,6 +22,9 @@ LinkedIn: www.linkedin.com/in/antonlps
 This bit explains what games I've worked on during my degree. 
 
 ### Yanet in Yonderland
+<p align="center">
+  <img title="Radiant shores placement and cannons" src="https://github.com/Alps709/Alps709/blob/master/Media/Yanet In Yonderland.png"/>
+</p>
 Yanet in Yonderland is a 2D platforming puzzel game created in my first year of University with a team of 4 other people (2 programmers, 2 artists).
 A license to use the game was sold to [CoolMathGames.com](https://www.coolmathgames.com/0-yanet-in-yonderland), which since been rated 4.2/5 with over 3000 votes.
 I programmed the main puzzel mechanics, the companion AI and designed some of the puzzles for the game.
