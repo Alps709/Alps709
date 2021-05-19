@@ -23,7 +23,7 @@ This bit explains what games I've worked on during my degree.
 
 ### Fluid Simulation Research - Prototype game
 <p align="center">
-  <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Yanet In Yonderland.png"/>
+  <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Playtest.gif"/>
 </p>
 I developed a prototype of a 2D multiplayer combat game that uses fluid simulation as it’s core game mechanic. I used a Unity plugin called Fluid Dynamics to simulate the fluid and I successfully learned how it worked so I could extend it’s functionality to do what I wanted such as detect collisions with the player characters. I am currently finishing a short research paper discussing the game design and technical implementation of fluid simulation in games.
 
