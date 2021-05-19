@@ -31,7 +31,7 @@ I developed a prototype of a 2D multiplayer combat game that uses fluid simulati
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/AdvancedGraphics.png"/>
 </p>
 For one of my university projects I developed a showcase of different graphics techniques in my custom rendering engine that uses C++ and the OpenGL graphics API.
-[A video of the different graphics techniques I implemented can be found here](https://youtu.be/ZAtfRSMvaL0)
+A video of the different graphics techniques I implemented can be [found here.](https://www.youtube.com/watch?v=ZAtfRSMvaL0)
 
 Some features / techniques showcased are: 
 •	Procedural terrain generation using noise. 
@@ -45,7 +45,7 @@ Some features / techniques showcased are:
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Yanet In Yonderland.png"/>
 </p>
 A 2D platforming puzzel game created in my first year of University with a team of 4 other people (2 programmers, 2 artists).
-A license to use the game was sold to [CoolMathGames.com](https://www.coolmathgames.com/0-yanet-in-yonderland), which since been rated 4.2/5 with over 3000 votes.
+A license to use the game was sold to [CoolMathGames.com](https://www.coolmathgames.com/0-yanet-in-yonderland) , which since been rated 4.2/5 with over 3000 votes.
 I programmed the main puzzel mechanics, the companion AI and designed some of the puzzles for the game.
 
 
