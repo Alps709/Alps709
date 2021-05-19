@@ -18,14 +18,27 @@ LinkedIn: www.linkedin.com/in/antonlps
 
 # Portfolio-of-Work (WIP)
 
-## Game dev work
-This bit explains what games I've worked on during my degree. 
 
 ### Fluid Simulation Research - Prototype game
 <p align="center">
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Playtest.gif"/>
 </p>
 I developed a prototype of a 2D multiplayer combat game that uses fluid simulation as it’s core game mechanic. I used a Unity plugin called Fluid Dynamics to simulate the fluid and I successfully learned how it worked so I could extend it’s functionality to do what I wanted such as detect collisions with the player characters. I am currently finishing a short research paper discussing the game design and technical implementation of fluid simulation in games.
+
+
+### Advanced Graphics showcase
+<p align="center">
+  <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Playtest.gif"/>
+</p>
+For one of my university projects I developed a showcase of different graphics techniques in my custom rendering engine that uses C++ and the OpenGL graphics API.
+[A video of the different graphics techniques I implemented can be found here](https://www.youtube.com/watch?v=bZDdFdQSank).
+
+Some features / techniques showcased are: 
+•	Procedural terrain generation using noise. 
+•	Varying terrain level of detail based on distance using a tessellation shader.
+•	Varying grass level of detail on the terrain using the geometry shader. 
+•	Particle system that can render millions of particles using compute shaders.
+
 
 ### Yanet in Yonderland
 <p align="center">
