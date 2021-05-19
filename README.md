@@ -79,7 +79,7 @@ For this game I worked on the cat and its light based health system, the double 
 </p>
 
 ### Rapid Game Prototypes
-I collaborated in a team of 6 people to develop 4 different 1 week long game prototypes as well as, 3 different 2 week long  game prototypes. 
+I collaborated in a team of 6 people to develop 4 different 1 week long game prototypes as well as, 3 different 2 week long game prototypes. 
 I was one of the two lead programmers for all prototypes, as well as a designer. My design work was mainly towards game ideas and mechanics, and my programming work was mainly towards implementation of game mechanics and other general developement tasks such as code refactoring, bug fixing etc. 
 
 #### 1 Week long Prototypes:
