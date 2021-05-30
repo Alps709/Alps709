@@ -43,7 +43,7 @@ Some features / techniques showcased are:
 
 •	Varying terrain level of detail based on distance using a tessellation shader.
 
-•	Varying grass level of detail on the terrain using the geometry shader. 
+•	Varying grass level of detail on the terrain using the tesselation shader + geometry shader. 
 
 •	Particle system that can render millions of particles using compute shaders.
 
