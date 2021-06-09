@@ -1,4 +1,4 @@
-<p align="center"># My Ciriculum Vitae</p>
+<p align="center">Ciriculum Vitae</p>
 
 # About me
 My name is Anton Le Prevost-Smith.
