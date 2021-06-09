@@ -1,5 +1,5 @@
 <p align="center">
-  # My Ciriculum Vitae
+# My Ciriculum Vitae
 </p>
 
 # About me
