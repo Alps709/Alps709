@@ -1,4 +1,6 @@
-# My Ciriculum Vitae
+<p align="center">
+  # My Ciriculum Vitae
+</p>
 
 # About me
 My name is Anton Le Prevost-Smith.
