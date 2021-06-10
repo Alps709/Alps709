@@ -26,6 +26,24 @@ LinkedIn: www.linkedin.com/in/antonlps
 <p align="center">
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Overdew - Aria Screen Shot.png"/>
 </p>
+Aria is a top down, hack and slash, roguelite game created in Unreal Engine 4.26.
+In this game the player embarks out on a hunting expedition and aims to clear a challenging test called the Hunter Trials.
+
+It is being created by Team Overdew, a team of 5 people (4 artists, 1 programmer - me) who are creating this game in their final-year game production class at Media Design School. We have been working on this game since December 2020 and are currently in the final gold production stage of the game.
+
+I am the main programmer for the game but Nick (who is our tech-artist/unreal-generalist) has also been mainly working on Gameplay functionality and implementation.
+We have a [Technical Design Document](https://github.com/Alps709/Alps709/blob/master/Media/Aria%20Technical%20Design%20Document%20-%20Beta.pdf) which details some of the technical systems we have for our game.
+
+Our game currently features:
+Fast paced interactive combat.
+3 different types of weapons, each with 4 upgrades.
+Per trial upgrades bought through a shop.
+Permament player upgrades.
+Many different mobs.
+3 Bosses.
+12 Levels/Areas.
+
+
 
 ## Fluid Simulation Research - Prototype game
 <p align="center">
