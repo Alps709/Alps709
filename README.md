@@ -27,7 +27,7 @@ LinkedIn: www.linkedin.com/in/antonlps
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Overdew - Aria Screen Shot.png"/>
 </p>
 Aria is a top down, hack and slash, roguelite game created in Unreal Engine 4.26.
-<a href="https://www.youtube.com/watch?v=5ovbQMfCC6U">Checkout the Beta Gameplay video here!</a>
+<a href="https://www.youtube.com/watch?v=XscTnX3AlOM">Checkout the Gold Gameplay video here!</a>
 
 
 In this game the player embarks out on a hunting expedition and aims to clear a challenging test called the Hunter Trials.
