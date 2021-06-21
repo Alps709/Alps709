@@ -104,7 +104,7 @@ I programmed the main puzzel mechanics, the companion AI and designed some of th
 I created a real time interactive fractal generator that allows you to move around and zoom into the Mandelbrot fractal. The program uses multiple optimizations, one of which that I created sped it up by an average of 95%. 
 
 The program can be configured to use C++ CPU Multi-threading or GPU fragment shaders using the OpenGL graphics API.  
-This can be seen in a video here: <a href="https://www.youtube.com/watch?v=Ofb5bC0LnsQ">Checkout the Gold Gameplay video here!</a>
+This can be seen in a video here: <a href="https://www.youtube.com/watch?v=Ofb5bC0LnsQ">Mandlebrot Fractal video.</a>
 
 
 
