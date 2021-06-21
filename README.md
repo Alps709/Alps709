@@ -57,11 +57,13 @@ Our game currently features:
 
 
 
+
 ## Fluid Simulation Research - Prototype game
 <p align="center">
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Playtest.gif"/>
 </p>
 I developed a prototype of a 2D multiplayer combat game that uses fluid simulation as it’s core game mechanic. I used a Unity plugin called Fluid Dynamics to simulate the fluid and I successfully learned how it worked so I could extend it’s functionality to do what I wanted such as detect collisions with the player characters. I am currently finishing a short research paper discussing the game design and technical implementation of fluid simulation in games.
+
 
 
 ## Advanced Graphics showcase
@@ -83,6 +85,7 @@ Some features / techniques showcased are:
 
 
 
+
 ## Yanet in Yonderland
 <p align="center">
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Yanet In Yonderland.png"/>
@@ -92,12 +95,15 @@ A license to use the game was sold to <a href="https://www.coolmathgames.com/0-y
 I programmed the main puzzel mechanics, the companion AI and designed some of the puzzles for the game.
 
 
+
+
 ## Interactive Multi-threaded fractal generator
 <p align="center">
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/MandlebrotFractal.png"/>
 </p>
 I created a real time interactive fractal generator that allows you to move around and zoom into the Mandelbrot fractal. The program uses multiple optimizations, one of which that I created sped it up by an average of 95%. The program can be configured to use C++ CPU Multi-threading or GPU fragment shaders using the OpenGL graphics API.  
 This can be seen in a video here: <a href="https://www.youtube.com/watch?v=Ofb5bC0LnsQ">Checkout the Gold Gameplay video here!</a>
+
 
 
 
