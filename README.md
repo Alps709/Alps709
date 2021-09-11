@@ -2,7 +2,7 @@
 
 # About me
 My name is Anton Le Prevost-Smith.
-I'm a 24 year old software engineer and game developer who has a bachelors degree in Software Engineering (Game Programming) from Media Design School.
+I'm a 24 year old software engineer and game programmer working at A44 Games. I have a bachelors degree in Software Engineering (Game Programming) from Media Design School.
 
 I love working with other people to solve problems and make some pretty cool things - such as games!
 
@@ -10,8 +10,6 @@ I'm experienced in using C++, Unreal Engine, and Unity.
 I also have experience programming graphics, physics, networking, multithreading and AI projects.
 
 This is my portfolio for some of the programming and game development work I have done during my degree.
-
-(I have still yet to add all the work I've done so please excuse me if it seems pretty lackluster at the moment)
 
 #### How to reach me:
 Email: alps709@gmail.com
