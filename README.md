@@ -78,15 +78,17 @@ I developed a prototype of a 2D multiplayer combat game that uses fluid simulati
 For one of my university projects I developed a showcase of different graphics techniques in my custom rendering engine that uses C++ and the OpenGL graphics API.
 <a href="https://www.youtube.com/watch?v=ZAtfRSMvaL0">A video of the different graphics techniques I implemented can be found here.</a>
 
-Some features / techniques showcased are: 
+All features / techniques showcased are: 
 
-•	Procedural terrain generation using noise. 
+•	Procedural terrain generation by using noise to generate a 4K heightmap texture with CPU multi-threading (at load time). 
 
-•	Varying terrain level of detail based on distance using a tessellation shader.
+•	Dynamic terrain level of detail using a tessellation shader that samples new height points from the 4k heightmap texture.
 
 •	Varying grass level of detail on the terrain using the tesselation shader + geometry shader. 
 
 •	Particle system that can render millions of particles using compute shaders.
+
+• Mouse picking and 3D vector collision for objects (Spheres, Cubes, Terrain).
 
 
 
