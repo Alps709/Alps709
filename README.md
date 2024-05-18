@@ -2,7 +2,7 @@
 
 # About me
 My name is Anton Le Prevost-Smith.
-I'm a software engineer and game programmer working at A44 Games. I have a bachelors degree in Software Engineering (Game Programming) from Media Design School.
+I'm a software engineer and game programmer who has a bachelor's degree in Software Engineering (Game Programming) from Media Design School.
 
 I love working with other people to solve problems and make some pretty cool things - such as games!
 
