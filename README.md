@@ -2,7 +2,8 @@
 
 # About me
 My name is Anton Le Prevost-Smith.
-I'm a software engineer and game programmer who has a bachelor's degree in Software Engineering (Game Programming) from Media Design School.
+I'm a software engineer and game programmer with 3 years of industry experience working on "Flintlock:The Siege of Dawn" at A44 Games.
+I also have a bachelor's degree in Software Engineering (Game Programming) from Media Design School.
 
 I love working with other people to solve problems and make some pretty cool things - such as games!
 
