@@ -19,6 +19,14 @@ LinkedIn: www.linkedin.com/in/antonlps
 
 # Portfolio-of-Work (WIP)
 
+## Fintlock: The Siege of Dawn
+[![Watch the video](https://img.youtube.com/vi/A2UD-bPLtfc/maxresdefault.jpg)](https://youtu.be/azhS5hYQ2hA?si=I48M5pxfF3DUQcFP)
+
+Flintlock is the best work of my career as a software engineer and game programmer thus far.
+I have worked on it for almost 3 years under exceptional expertise and have contributed significantly to the project.
+Once the game releases I can talk more about my work and involvement in more detail, stay tuned!
+
+
 ## Aria - Overdew Final Production Game
 <p align="center">
   <img title="" src="https://github.com/Alps709/Alps709/blob/master/Media/Aria-PromotionalDocument.png" style="max-width: 50%;" />
