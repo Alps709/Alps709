@@ -24,7 +24,8 @@ LinkedIn: www.linkedin.com/in/antonlps
 
 Flintlock is the best work of my career as a software engineer and game programmer thus far.
 I have worked on it for almost 3 years under exceptional expertise and have contributed significantly to the project.
-Once the game releases I can talk more about my work and involvement in more detail, stay tuned!
+Once the game releases I can talk more about my work and involvement publicly in more detail, stay tuned!
+(If you are a recruiter you are welcome to ask about the details of my involvement in this project as I can share them in private)
 
 
 ## Aria - Overdew Final Production Game
