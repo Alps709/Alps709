@@ -23,8 +23,7 @@ LinkedIn: www.linkedin.com/in/antonlps
 [![Watch the video](https://img.youtube.com/vi/A2UD-bPLtfc/maxresdefault.jpg)](https://youtu.be/azhS5hYQ2hA?si=I48M5pxfF3DUQcFP)
 
 Flintlock is the best work of my career as a software engineer and game programmer thus far.
-I have worked on it for almost 3 years under exceptional expertise and have contributed significantly to the project.
-Once the game releases I can talk more about my work and involvement publicly in more detail, stay tuned!
+I have worked on it for 3 years under exceptional expertise and have contributed significantly to the project.
 (If you are a recruiter you are welcome to ask about the details of my involvement in this project as I can share them in private)
 
 
